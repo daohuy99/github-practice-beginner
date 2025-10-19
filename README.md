@@ -1,6 +1,6 @@
 # 🎯 GitHub Practice - Beginner Level
 
-> **Repo luyện tập GitHub dành cho sinh viên Việt **
+> **Repo luyện tập GitHub dành cho sinh viên Việt Nam **
 > ✨ Updated by [daohuy99]
 
 ## 📖 Giới thiệu
