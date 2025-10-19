@@ -53,7 +53,6 @@
    git add members/members.txt
    git commit -m "Bài tập 1: Thêm thông tin cá nhân vào danh sách thành viên"
    ```
-
 ### Phần C: Push và tạo Pull Request (10 phút)
 
 7. **Push branch lên GitHub**
