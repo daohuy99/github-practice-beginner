@@ -39,3 +39,4 @@
 **🚀 Cảm ơn bạn đã ghé thăm profile của tôi!**
 
 *Hãy kết nối với tôi qua [email](daoxuanhuy21092007@gmail.com) hoặc [GitHub](https://github.com/)!*
+- Hoàn thiện profile với github stats
