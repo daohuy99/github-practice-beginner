@@ -1,7 +1,7 @@
 # 🎯 GitHub Practice - Beginner Level
 
-> **Repo luyện tập GitHub dành cho sinh viên mới bắt đầu**
-
+> **Repo luyện tập GitHub cho sinh viên HUST**
+🔥 Updated by team member
 ## 📖 Giới thiệu
 
 Chào mừng bạn đến với repo luyện tập GitHub! Đây là nơi bạn sẽ học các thao tác Git/GitHub cơ bản thông qua các bài tập thực hành.
